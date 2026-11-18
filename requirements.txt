@@ -1,8 +1,0 @@
-googlemaps
-openai
-langchain
-langchain-openai
-pydantic
-sqlalchemy
-pytest
-python-dotenv
